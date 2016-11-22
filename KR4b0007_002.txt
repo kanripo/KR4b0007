@@ -1,7 +1,7 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 陸士龍集
 #+DATE: 2015-09-23 10:17:26
-#+PROPERTY: JUAN 1
+#+PROPERTY: JUAN 2
 
 
 　　四言失題¶(前八章/後六章)¶
